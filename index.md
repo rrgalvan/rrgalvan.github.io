@@ -19,7 +19,7 @@ keywords: numerical analysis, scientific computing
 <tr>
   <td class="left">
     <!-- <a href="pages/publpics/iplotCorr.html"> -->
-        <img src="assets/publpics/21-1-str_ustab.png" alt="Stokes 3D (P2,P1)-P1 unstability" title="Stokes 3D (P2,P1)-P1 unstability"/>
+        <img src="assets/publpics/211-1-str_ustab.png" alt="Stokes 3D (P2,P1,P1)-P1 unstability" title="Stokes 3D (P2,P1,P1)-P1 unstability"/>
     <!-- </a> -->
   </td>
   <td class="right">
@@ -31,7 +31,7 @@ keywords: numerical analysis, scientific computing
 <tr>
   <td class="left">
     <!-- <a href="pages/publpics/samplemixups_fig7.html"> -->
-        <img src="assets/publpics/113138803" alt="" title="Velocity flow 3D"/>
+        <img src="assets/publpics/113138803.png" alt="" title="Velocity flow 3D"/>
     <!-- </a> -->
   </td>
   <td class="right">
