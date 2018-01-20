@@ -18,27 +18,26 @@ keywords: numerical analysis, scientific computing
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
-    </a>
+    <!-- <a href="pages/publpics/iplotCorr.html"> -->
+        <img src="assets/publpics/21-1-str_ustab.png" alt="Stokes 3D (P2,P1)-P1 unstability" title="Stokes 3D (P2,P1)-P1 unstability"/>
+    <!-- </a> -->
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
-    </a>
+    <!-- <a href="pages/publpics/tian2016_fig4.html"> -->
+        <img src="assets/publpics/22-1-vstab.png" alt="(P2,P2)-P1 vertical stabilization" title="Convergence orders (P2,P2)-P1 v-stab"/>
+    <!-- </a> -->
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
-    </a>
+    <!-- <a href="pages/publpics/samplemixups_fig7.html"> -->
+        <img src="assets/publpics/113138803" alt="" title="Velocity flow 3D"/>
+    <!-- </a> -->
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
-    </a>
+    <!-- <a href="pages/publpics/isletc6_fig4.html"> -->
+        <img src="assets/publpics/gibraltar-pressure-2d.png" alt="Gibraltar Strait pressure" title="Gibraltar strait pressure"/>
+    <!-- </a> -->
   </td>
 </tr>
 </table>
