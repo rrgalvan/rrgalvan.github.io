@@ -21,19 +21,19 @@ keywords: numerical analysis, scientific computing
 <tr>
   <td class="left">
     <!-- <a href="pages/publpics/iplotCorr.html"> -->
-        <img src="assets/publpics/211-1-str_ustab.png" alt="Stokes 3D (P2,P1,P1)-P1 unstability" title="Stokes 3D (P2,P1,P1)-P1 unstability"/>
+        <img src="assets/publpics/113138803.png" alt="" title="Velocity flow 3D"/>
     <!-- </a> -->
   </td>
   <td class="right">
     <!-- <a href="pages/publpics/tian2016_fig4.html"> -->
-        <img src="assets/publpics/22-1-vstab.png" alt="(P2,P2)-P1 vertical stabilization" title="Convergence orders (P2,P2)-P1 v-stab"/>
+        <img src="assets/publpics/211-1-str_ustab.png" alt="Stokes 3D (P2,P1,P1)-P1 unstability" title="Stokes 3D (P2,P1,P1)-P1 unstability"/>
     <!-- </a> -->
   </td>
 </tr>
 <tr>
   <td class="left">
     <!-- <a href="pages/publpics/samplemixups_fig7.html"> -->
-        <img src="assets/publpics/113138803.png" alt="" title="Velocity flow 3D"/>
+        <img src="assets/publpics/22-1-vstab.png" alt="(P2,P2)-P1 vertical stabilization" title="Convergence orders (P2,P2)-P1 v-stab"/>
     <!-- </a> -->
   </td>
   <td class="right">
