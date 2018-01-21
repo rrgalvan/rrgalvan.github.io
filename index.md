@@ -10,7 +10,7 @@ keywords: numerical analysis, scientific computing
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/rrgalvan_cv.pdf">cv</a></li>
           <li><a href="https://github.com/rrgalvan">github</a></li>
-          <li><a href="https://www.researchgate.net/profile/J_Rafael_Galvan">ResearchGate</a></li>
+          <li><a href="https://www.researchgate.net/profile/J_Rafael_Galvan">researchgate</a></li>
       </ul>
   </div>
 </div>
