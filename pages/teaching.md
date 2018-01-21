@@ -16,7 +16,7 @@ description: Karl Broman's teaching
 </div>
 
 
-### <a name="current"></a>Current courses (2017-2018, in spanish)
+### <a name="current"></a>Current courses
 
 #### Grado en Matemáticas
 
