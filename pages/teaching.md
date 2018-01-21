@@ -16,11 +16,21 @@ description: Karl Broman's teaching
 </div>
 
 
-### <a name="current"></a>Current courses
+### <a name="current"></a>Current courses (2017-2018, in spanish)
 
-Current teaching is show in Spanish
+#### Grado en Matemáticas
 
-## Máster en Matemáticas
+* Métodos Numéricos II
+
+  * Apuntes: [fuentes LaTeX](https://github.com/rrgalvan/apuntes-mnii)
+  * Prácticas de ordenador: [códigos python](https://github.com/rrgalvan/python-mnii)
+
+#### Máster en Matemáticas
 
 * [Software en Matemáticas](https://nbviewer.jupyter.org/github/rrgalvan/Python4Maths/blob/master/Intro-to-Python/00.ipynb)
 * Ecuaciones en Derivadas Parciales y Métodos Numéricos
+
+#### Máster en Ingeniería Naval y Oceánica
+
+* Métodos Matemáticos en Ingeniería
+* Dinámica del Buque
