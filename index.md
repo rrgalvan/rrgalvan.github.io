@@ -15,7 +15,7 @@ keywords: numerical analysis, scientific computing
   </div>
 </div>
 
-**This web page is under construction!**
+**Website under construction!**
 
 <table class="wide">
 <tr>
