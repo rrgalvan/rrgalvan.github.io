@@ -11,7 +11,7 @@ keywords: numerical analysis, scientific computing
           <li><a href="{{ BASE_PATH }}/assets/rrgalvan_cv.pdf">cv</a></li>
           <li><a href="https://github.com/rrgalvan">github</a></li>
           <li><a href="https://www.researchgate.net/profile/J_Rafael_Galvan">researchgate</a></li>
-          <li><a href="https://scholar.google.com/citations?user=uFldLV4AAAAJ">Google scholar</a></li>
+          <li><a href="https://scholar.google.com/citations?user=uFldLV4AAAAJ">googlescholar</a></li>
       </ul>
   </div>
 </div>
