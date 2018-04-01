@@ -16,8 +16,6 @@ keywords: numerical analysis, scientific computing
   </div>
 </div>
 
-**Website under construction!**
-
 <table class="wide">
 <tr>
   <td class="left">
