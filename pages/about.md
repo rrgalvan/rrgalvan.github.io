@@ -14,7 +14,7 @@ description: J. Rafael Rodríguez Galván is Professor in Mathematics at Univers
 	> *Address*:
 	>
 	> Departamento de Matemáticas. Facultad de Ciencias.
-	> Universidad de Cádiz. Campus de Puerto Real.
+	> Universidad de Cádiz.
 	> 11510 Puerto Real, Cádiz
 	>
     > *Tlf*: 956012761
