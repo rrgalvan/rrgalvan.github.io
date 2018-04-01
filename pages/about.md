@@ -13,9 +13,9 @@ description: J. Rafael Rodríguez Galván is Professor in Mathematics at Univers
 
 	> *Address*:
 	>
-	> Departamento de Matemáticas. Facultad de Ciencias.
+	> <a href="http://www.uca.es/matematicas">Departamento de Matemáticas</a>. Facultad de Ciencias.
 	> Universidad de Cádiz.
-	> 11510 Puerto Real, Cádiz
+	> 11510 Puerto Real, Cádiz (Spain).
 	>
     > *Tlf*: +34 956012761
 	>
@@ -24,6 +24,10 @@ description: J. Rafael Rodríguez Galván is Professor in Mathematics at Univers
 * *Research* in Numerical Analysis and Scientific Computing, related
   to Numerical Simulation of Partial Differential Equations models in
   Science and Engineering.
+
+  * *Research group*: <a href="http://fqm315.uca.es/">FQM-315</a>:
+    (Theoretical and Numerical Analysis of Models of the Experimental
+    Sciences, link in Spanish)
 
 * *Teaching* in
 
