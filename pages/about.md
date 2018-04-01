@@ -6,8 +6,10 @@ description: J. Rafael Rodríguez Galván is Professor in Mathematics at Univers
 
 ### J. Rafael Rodríguez Galván
 
+![Rafa Rodríguez Galván image](assets/publpics/rrgalvan.png)
 
-* Professor in Mathematics at Universidad de Cádiz, Spain.
+* Professor in Mathematics at "<a
+  href="http://www.uca.es/?lang=en">Universidad de Cádiz</a>", Spain.
 
 	> *Address*:
 	>
@@ -17,7 +19,7 @@ description: J. Rafael Rodríguez Galván is Professor in Mathematics at Univers
 	>
     > *Tlf*: 956012761
 	>
-    > *E-mail*: rafael(DOT)rodriguez(AT)uca(DOT)es
+    > *E-mail*: rafael(dot)rodriguez(at)uca(dot)es
 
 * *Research* in Numerical Analysis and Scientific Computing.
 
