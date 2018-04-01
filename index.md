@@ -8,7 +8,7 @@ keywords: numerical analysis, scientific computing
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/rrgalvan_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/curriculum-research-en.pdf">cv</a></li>
           <li><a href="https://github.com/rrgalvan">github</a></li>
           <li><a href="https://www.researchgate.net/profile/J_Rafael_Galvan">researchgate</a></li>
           <li><a href="https://scholar.google.com/citations?user=uFldLV4AAAAJ">googlescholar</a></li>
