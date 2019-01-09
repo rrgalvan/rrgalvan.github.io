@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.10.17)  9 JAN 2019 20:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.10.17)  9 JAN 2019 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
 de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
-{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
-documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
- tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
-\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,charset=ISO-8859-1.a.
-b.c.\input  ../boletin21
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,xhtml]{tex4ht}}\let\HCode
+\documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csnam
+e tex4ht\endcsname{#1,xhtml}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar
+[{\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,charset=ISO-8859-1.
+a.b.c.\input  ../boletin21
 (../boletin21.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -774,7 +774,7 @@ option `frames-fn'
 --------------------------------------
 --- Note --- for file extension name xht, use the command line option `xht'
 --------------------------------------
-TeX4ht package options: xhtml,charset=ISO-8859-1,html
+TeX4ht package options: xhtml,charset=ISO-8859-1
 --------------------------------------
 --- Note --- To print a timestamp, use the command line option timestamp
 --------------------------------------
@@ -1354,11 +1354,11 @@ l.1212   \rowcolor{yellow!15!white}
 ? x
  
 Here is how much of TeX's memory you used:
- 21686 strings out of 492983
- 385499 string characters out of 6134921
- 591165 words of memory out of 5000000
- 24676 multiletter control sequences out of 15000+600000
+ 21685 strings out of 492983
+ 385492 string characters out of 6134921
+ 591160 words of memory out of 5000000
+ 24675 multiletter control sequences out of 15000+600000
  19643 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,7n,73p,2077b,623s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on boletin21.dvi (66 pages, 198632 bytes).
+ 62i,7n,73p,2079b,623s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on boletin21.dvi (66 pages, 198600 bytes).
